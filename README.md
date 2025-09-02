@@ -3,9 +3,9 @@ _Overview_
 
 This project implements Machine Learning models to:
 
-# Predict company bankruptcy based on financial indicators.
+**Predict company bankruptcy based on financial indicators.**
 
-# Detect money laundering activities in Bitcoin blockchain transactions.
+**Detect money laundering activities in Bitcoin blockchain transactions.**
 
 *The work is based on replicating and extending results from two research papers:*
 
@@ -15,13 +15,13 @@ This project implements Machine Learning models to:
 
 **Technologies Used**
 
-# Python (Data Analysis & Modeling)
+**Python (Data Analysis & Modeling)**
 
-# Scikit-learn (ML Algorithms)
+**Scikit-learn (ML Algorithms)**
 
-# Pandas, NumPy (Data Handling)
+**Pandas, NumPy (Data Handling)**
 
-# Matplotlib, Seaborn (Visualization)
+**Matplotlib, Seaborn (Visualization)**
 
 **Datasets**
 
